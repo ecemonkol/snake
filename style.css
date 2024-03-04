@@ -1,0 +1,35 @@
+body {
+    background-color: #242883;
+}
+
+#container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; 
+}
+
+canvas {
+    border: none;
+}
+
+
+h3 {
+    font-size: 20px;
+    color: white;
+    font-family: "Micro 5", sans-serif;
+    font-size: 46px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+button {
+    width: 120px;
+    height: 50px;
+    background-color: white;
+    color: navy;
+    border: none;
+    font-family: "Micro 5", sans-serif;
+    font-size: 36px;
+}
